@@ -27,4 +27,4 @@ def states_list():
 
 if __name__ == '__main__':
     storage.reload()
-    app.run("0.0.0.0", 5000)
+    app.run("0.0.0.0", 5000
