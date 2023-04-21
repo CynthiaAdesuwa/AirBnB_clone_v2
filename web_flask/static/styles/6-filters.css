@@ -32,7 +32,7 @@
 
 /* Locations and amenities style */
 .filters .locations,
-.filters .amenities {
+.filters .amenities {i
   display: inline-block;
   height: 100%;
   position: relative;
